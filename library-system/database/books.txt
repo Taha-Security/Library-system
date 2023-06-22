@@ -1,0 +1,8 @@
+name:goblin secrets,price:50,location:A2,type:mystery
+name:crenshaw,price:70,location:A4,type:story 
+name:python3,price:95,location:B3,type:educational
+name:banana man,price:23,location:B2,type:novel
+name:Mr.404,price:40,location:A4,type:story
+name:lost city,price:89,location:A4,type:story 
+name:black python,price:56,location:B3,type:educational
+name:black wolf,price:35,location:b3,type:story
